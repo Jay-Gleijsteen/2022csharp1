@@ -1,0 +1,7 @@
+toilet
+boolean of er iemand op zit
+boolean of er doorgespoeld is
+aantal liter water wat er in kan(double)
+of het nummer 1 of 2 is(string)
+boolean of er kak in zit
+boolean of hij werkt
